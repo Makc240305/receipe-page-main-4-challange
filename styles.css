@@ -80,6 +80,10 @@ hr {
     margin: 32px 0;
 }
 
+section:last-child{
+    margin-bottom: 0;
+}
+
 ::marker,
 h2 {
     color: var(--brown800);
