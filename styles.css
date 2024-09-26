@@ -163,17 +163,6 @@ hr{
     padding-left: 22px;
 }
 
-.attribution {
-    font-size: 11px;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-}
-
-.attribution a {
-    color:var(--atributtion-color);
-}
-
 @media screen and (min-width:768px) and (max-width:1024px){
     .card{
         margin: 128px 76px;
