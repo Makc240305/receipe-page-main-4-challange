@@ -55,9 +55,10 @@ h2 {
     font-size: 28px;
 }
 
-h3{
+.preparation-time h2{
     color: var(--rose800);
     margin: 0 0 16px 0;
+    font-family: 'Outfit', sans-serif;
     font-size:20px;
     line-height: 100%;
     font-weight: 600;
