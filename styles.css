@@ -55,15 +55,6 @@ h2 {
     font-size: 28px;
 }
 
-.preparation-time h2{
-    color: var(--rose800);
-    margin: 0 0 16px 0;
-    font-family: 'Outfit', sans-serif;
-    font-size:20px;
-    line-height: 100%;
-    font-weight: 600;
-}
-
 p {
     margin: 24px 0;
 }
@@ -157,6 +148,19 @@ hr{
     padding: 24px;
     border-radius: 12px;
     margin:32px 0;
+}
+
+.preparation-time h2{
+    color: var(--rose800);
+    margin: 0 0 16px 0;
+    font-family: 'Outfit', sans-serif;
+    font-size:20px;
+    line-height: 100%;
+    font-weight: 600;
+}
+
+.preparation-time ul{
+    padding-left: 22px;
 }
 
 .attribution {
