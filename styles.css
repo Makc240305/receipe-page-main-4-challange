@@ -175,7 +175,7 @@ td {
         max-width: max-content;
     }
 }
-@media screen and (max-width:375px) {
+@media screen and (max-width:768px) {
     h1{
         font-size: 36px;
     }
